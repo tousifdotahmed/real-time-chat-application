@@ -42,7 +42,7 @@
 
             </form>
             <div class="link">
-                Not yet Signed up? <a href="#">Signup now</a>
+                Not yet Signed up? <a href="index.php">Signup now</a>
             </div>
 
 
@@ -52,6 +52,7 @@
 
         </section>
     </div>
+    <script src="javascript/pass-show-hide.js"></script>    
 </body>
 
 </html>
