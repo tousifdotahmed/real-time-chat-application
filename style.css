@@ -382,10 +382,15 @@ form .name-details .field:last-child {
     background: #333;
     font-size: 19px;
     cursor: pointer;
-    pointer-events: none;
+    
     border-radius: 0 5px 5px 0;
-    transition: all 0.3s ease;
+    
   }
+
+.typing-area button.active{
+    opacity: 1;
+    pointer-events: auto;
+}  
 :is(.users-list, .chat-box)::-webkit-scrollbar{ /* scroll hide*/
     width: 0px;
   }   

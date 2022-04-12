@@ -32,7 +32,7 @@
 
                 </div>
 
-                <a href="#" class="logout">Logout</a>
+                <a href="php/logout.php?logout_id=<?php echo $row['unique_id'] ?>" class="logout">Logout</a>
 
 
 
@@ -45,90 +45,7 @@
 
             </div>
             <div class="users-list">
-                <a href="#">
-                    <div class="content">
-                        <img src="Photo.png" alt="">
-                        <div class="details">
-
-                            <span>Tousif nafi</span>
-                            <p>This is test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot">
-                        <i class="fas fa-circle"></i>
-
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="content">
-                        <img src="Photo.png" alt="">
-                        <div class="details">
-
-                            <span>Tousif Ahmed nafi</span>
-                            <p>This is test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot">
-                        <i class="fas fa-circle"></i>
-
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="content">
-                        <img src="Photo.png" alt="">
-                        <div class="details">
-
-                            <span>Ahmed tousif</span>
-                            <p>This is test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot">
-                        <i class="fas fa-circle"></i>
-
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="content">
-                        <img src="Photo.png" alt="">
-                        <div class="details">
-
-                            <span>Ahmed nafi</span>
-                            <p>This is test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot">
-                        <i class="fas fa-circle"></i>
-
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="content">
-                        <img src="Photo.png" alt="">
-                        <div class="details">
-
-                            <span>Nafi</span>
-                            <p>This is test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot">
-                        <i class="fas fa-circle"></i>
-
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="content">
-                        <img src="Photo.png" alt="">
-                        <div class="details">
-
-                            <span>Ahmed tousif nafi</span>
-                            <p>This is test message</p>
-                        </div>
-                    </div>
-                    <div class="status-dot">
-                        <i class="fas fa-circle"></i>
-
-                    </div>
-                </a>
+            
             </div>
 
         </section>
