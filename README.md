@@ -5,9 +5,4 @@ active status and so on.
 
 Future scope:
 
-File Transfer
-Video Chat
-Voice Call
-Watch Video Together Feature
-Screen Share
-
+![image](https://user-images.githubusercontent.com/98221968/164878367-368c6c0b-35df-45b4-9bb0-6abeff7146ab.png)
